@@ -1,8 +1,7 @@
 ## Hi, I’m Andry Nirina Andrianarison
-- I'm currently student at ECOLE SUPERIEURE POLYTECHNIQUE D"ANTSIRANANA, I follow the major of Telecommunication and Network
-
-- I am passionate the open source specially linux OS
+- Currently, I am a student at the ÉCOLE SUPÉRIEURE POLYTECHNIQUE D'ANTSIRANANA, specializing in Telecommunications and Networks
+- I am passionate the open source specially the `Linux OS`
 
 - I'm interested `Cybersecurity`
 
-- I use Spring Boot for create `APIREST`
+- For developing `APIREST`, I use `Spring Boot`.
