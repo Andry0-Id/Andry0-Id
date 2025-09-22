@@ -1,7 +1,52 @@
-## Hi, I’m Andry Nirina Andrianarison
-- Currently, I am a student at the ÉCOLE SUPÉRIEURE POLYTECHNIQUE D'ANTSIRANANA, specializing in Telecommunications and Networks
-- I am passionate the open source specially the `Linux OS`
+Andry Nirina Andrianarison
+🎓 Student at École Supérieure Polytechnique d'Antsiranana🌐 Field: Telecommunications & Networks  
+About
+Tech enthusiast diving into open-source, cybersecurity, and API development.
+Interests
 
-- I'm interested `Cybersecurity`
+🐧 Open Source & Linux
+🔒 Cybersecurity
+⚙️ API REST with Spring Boot
 
-- For developing `APIREST`, I use `Spring Boot`.
+Skills:
+Category
+Skills
+---
+💻 Programming
+Java, Python, C, PHP
+---
+📜 Scripting
+Bash, PowerShell
+---
+🗄️ Databases
+MariaDB, SQL
+---
+🖥️ OS
+Windows (10, 11, Server), Linux OS (Ubuntu, Rocky Linux, Debian)
+---
+☁️ Virtualization
+VMware, VirtualBox, Proxmox
+---
+🐳 Containers
+Docker, Podman
+---
+🌐 Network
+tcpdump, Wireshark, nmap, Cisco Packet Tracer
+---
+🔐 Security
+iptables, Lynis, OWASP
+---
+📊 Monitoring
+Zabbix
+---
+🔍 Forensics
+BinaryNinja, Hexdump, xxd
+---
+🧠 Deep Learning
+NLP, Computer Vision
+---
+🛠️ Tools
+Git, SSH, rsync, GLPI
+---
+
+🤝 Open to collaborate on tech projects!
