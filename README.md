@@ -1,8 +1,6 @@
 # Andry Nirina Andrianarison
-🎓 Student at École Supérieure Polytechnique d'Antsiranana
-🌐 Field: Telecommunications & Networks
-
----
+- 🎓 Student at École Supérieure Polytechnique d'Antsiranana
+- 🌐 Field: Telecommunications & Networks
 
 ## About
 Tech enthusiast diving into open-source, cybersecurity, and API development.
